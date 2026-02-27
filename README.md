@@ -1,7 +1,7 @@
 <div align="center">
 
 # ◈ AEROTWIN
-### AI-Powered Digital Twin for B787-9 Landing Gear Health Management
+### AI-Powered Digital Twin for B787-8 Landing Gear Health Management
 
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.5-EE4C2C?style=flat-square&logo=pytorch)](https://pytorch.org)
@@ -11,7 +11,7 @@
 [![ATA](https://img.shields.io/badge/ATA-32%20Landing%20Gear-blue?style=flat-square)]()
 [![CS](https://img.shields.io/badge/CS--25.473-Compliant-green?style=flat-square)]()
 
-*A three-layer intelligent MRO system — ODE physics synthesis, CNN-LSTM fault classification, and live FlightGear telemetry integration.*
+*A three-layer intelligent MRO system - ODE physics synthesis, CNN-LSTM fault classification, and live FlightGear telemetry integration.*
 
 </div>
 

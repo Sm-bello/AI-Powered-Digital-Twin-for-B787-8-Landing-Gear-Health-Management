@@ -1,0 +1,16 @@
+torch==2.5.1
+torchvision
+torchaudio
+flask
+flask-cors
+requests
+anthropic
+numpy
+pandas
+scikit-learn
+matplotlib
+scipy
+h5py
+wandb
+tqdm
+openpyxl

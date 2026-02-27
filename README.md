@@ -249,7 +249,7 @@ Validated against Simscape V1.0 and V2.0 multi-body model.
 
 ## Author
 
-**[Sni, M. B.]**
+**Sani, M. B.**
 Early-Career Aerospace Engineer
 Specialisation: MRO Optimisation, Aviation Safety, AI in Maintenance
 
@@ -269,6 +269,6 @@ MIT License — see [LICENSE](LICENSE) for details.
   title     = {AEROTWIN: CNN-LSTM Digital Twin for Aircraft Landing Gear Prognostics},
   year      = {2026},
   publisher = {GitHub},
-  url       = {https://github.com/[Sm-bello]/aerotwin-b787}
+  url       = {https://github.com/Sm-bello/aerotwin-b787}
 }
 ```
